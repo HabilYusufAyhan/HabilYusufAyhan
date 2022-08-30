@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HabilYusufAyhan
-- 👀 I am interested in mobile application development and web design.
-- 🌱 I’m currently learning JavaScript and Flutter
-- 💞️ I want to collaborate on a major mobile application
+- 👀 I am interested in web development
+- 🌱 I’m currently learning JavaScript 
 - 📫 You can reach me at my e-mail address(habilyusuf20@gmail.com)
 
 
