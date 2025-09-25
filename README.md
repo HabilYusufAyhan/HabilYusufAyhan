@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [habilyusufayhan.com.tr](habilyusufayhan.com.tr)
+- 👨‍💻 All of my projects are available at [habilyusufayhan.vercel.app](habilyusufayhan.vercel.app)
 
 - 💬 Ask me about **Node.js**
 
